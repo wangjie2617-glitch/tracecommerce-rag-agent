@@ -1,0 +1,101 @@
+[
+  {
+    "title": "市场",
+    "source_url": "https://help.shopify.com/zh-CN/manual/markets",
+    "source_type": "website",
+    "language": "zh-CN",
+    "business_category": "international_market",
+    "content": "# 市场\n\nShopify 市场可根据客户地点、客户群组或零售地点定义受众，并分别配置货币、语言、定价、产品供货情况、域名和模板内容。商家可以在 Shopify 后台的“市场”页面创建和管理市场。",
+    "crawled_at": "2026-07-26T00:00:00+00:00"
+  },
+  {
+    "title": "税费",
+    "source_url": "https://help.shopify.com/zh-CN/manual/taxes",
+    "source_type": "website",
+    "language": "zh-CN",
+    "business_category": "duties_and_taxes",
+    "content": "# 税费\n\n商家需要根据经营地区的法律要求征收、申报和汇付销售税。Shopify 可以协助计算常见税费，但商家仍需确认税率是否适用于自身业务，并在必要时咨询当地税务机构或税务专业人员。",
+    "crawled_at": "2026-07-26T00:00:00+00:00"
+  },
+  {
+    "title": "退货和换货",
+    "source_url": "https://help.shopify.com/zh-CN/manual/fulfillment/managing-orders/returns",
+    "source_type": "website",
+    "language": "zh-CN",
+    "business_category": "return",
+    "content": "# 退货和换货\n\n商家可以在 Shopify 后台的订单页面创建和管理退货、换货及退款。退货用于收回商品，换货用于寄送替代商品，退款用于将全部或部分付款退还给客户。商家还可以启用自助退货并设置退货期限与适用规则。",
+    "crawled_at": "2026-07-26T00:00:00+00:00"
+  },
+  {
+    "title": "订单退款",
+    "source_url": "https://help.shopify.com/zh-CN/manual/fulfillment/managing-orders/refunding-orders",
+    "source_type": "website",
+    "language": "zh-CN",
+    "business_category": "refund",
+    "content": "# 订单退款\n\n商家可以从 Shopify 后台对订单执行全部退款或部分退款。退款时可以选择将商品重新入库并向客户发送通知。退款和退货是不同业务操作，处理前应确认订单履约状态、付款渠道及商店退款政策。",
+    "crawled_at": "2026-07-26T00:00:00+00:00"
+  },
+  {
+    "title": "关税和进口税",
+    "source_url": "https://help.shopify.com/zh-CN/manual/international/duties-and-import-taxes",
+    "source_type": "website",
+    "language": "zh-CN",
+    "business_category": "duties_and_taxes",
+    "content": "# 关税和进口税\n\n跨境订单可能产生关税、进口税、经纪费和垫付费。准确计算通常依赖商品申报价值、原产国家或地区、目的地以及协调制度 HS 编码。Shopify 建议为国际订单的商品补充 HS 编码和原产地信息。",
+    "crawled_at": "2026-07-26T00:00:00+00:00"
+  },
+  {
+    "title": "结账时收取国际关税和进口税",
+    "source_url": "https://help.shopify.com/zh-CN/manual/international/duties-and-import-taxes/charging-duties",
+    "source_type": "website",
+    "language": "zh-CN",
+    "business_category": "duties_and_taxes",
+    "content": "# 结账时收取国际关税和进口税\n\n启用结账时收取关税和进口税前，商店需要满足相应条件，包括为商品配置 HS 编码，并确认承运商和第三方集成支持完税后交货 DDP。关税估算依赖客户下单时的商品和目的地信息。",
+    "crawled_at": "2026-07-26T00:00:00+00:00"
+  },
+  {
+    "title": "以当地货币定价",
+    "source_url": "https://help.shopify.com/zh-CN/manual/international/pricing",
+    "source_type": "website",
+    "language": "zh-CN",
+    "business_category": "currency_pricing",
+    "content": "# 以当地货币定价\n\n面向不同市场销售时，客户可以使用当地货币查看价格、付款和接收退款。价格默认按照市场汇率自动换算，也可以手动设置汇率、进行价格凑整或按国家和地区调整价格。商店应提供国家或地区选择器。",
+    "crawled_at": "2026-07-26T00:00:00+00:00"
+  },
+  {
+    "title": "跨境支付",
+    "source_url": "https://help.shopify.com/zh-CN/manual/international/payments",
+    "source_type": "website",
+    "language": "zh-CN",
+    "business_category": "payment",
+    "content": "# 跨境支付\n\n只有使用 Shopify Payments 或 Adyen 作为主要网关的商店，才能直接以客户的当地货币处理付款。使用其他支付服务提供商时，前台可以显示当地货币，但结账价格通常会转换为商店默认货币，客户还可能承担货币转换费。",
+    "crawled_at": "2026-07-26T00:00:00+00:00"
+  },
+  {
+    "title": "国际销售工具",
+    "source_url": "https://help.shopify.com/zh-CN/manual/international",
+    "source_type": "website",
+    "language": "zh-CN",
+    "business_category": "cross_border_commerce",
+    "content": "# 国际销售工具\n\nShopify 的国际销售功能用于管理跨境市场、语言、货币、定价、域名、关税和本地化体验。商家应根据目标国家或地区分别配置市场规则，并持续核对税务、海关和支付要求。",
+    "crawled_at": "2026-07-26T00:00:00+00:00"
+  },
+  {
+    "title": "订单跟踪",
+    "source_url": "https://help.shopify.com/zh-CN/manual/fulfillment/setup/order-status-page/order-tracking",
+    "source_type": "website",
+    "language": "zh-CN",
+    "business_category": "shipping",
+    "content": "# 订单跟踪\n\n订单发货后需要关联有效的跟踪编号和承运商，客户才能在订单状态页面、发货通知邮件或 Shop 应用中查看配送更新。通过 Shopify 购买发货标签时，跟踪信息通常会自动加入发货记录；使用未集成的承运商时，商家需要手动填写跟踪编号，并在无法自动识别承运商时选择承运商或填写跟踪 URL。商品已经发货但没有运输记录时，应先检查订单是否已经添加正确的跟踪编号、承运商和跟踪链接，再核对第三方发货服务是否把状态同步回 Shopify。",
+    "crawled_at": "2026-07-26T00:00:00+00:00"
+  },
+  {
+    "title": "订单与发货状态",
+    "source_url": "https://help.shopify.com/zh-CN/manual/fulfillment/managing-orders/order-status",
+    "source_type": "website",
+    "language": "zh-CN",
+    "business_category": "order_management",
+    "content": "# 订单与发货状态\n\nShopify 订单同时具有订单、支付、发货和退货等不同状态。未发货表示订单已创建，但商品尚未完成发货；已发货表示相应商品已完成发货处理。运营人员应结合支付状态、发货状态和退货状态判断下一步任务，不能只根据单一状态推断包裹的实时位置。订单的实时运输轨迹仍依赖有效的承运商跟踪信息。",
+    "crawled_at": "2026-07-26T00:00:00+00:00"
+  }
+]

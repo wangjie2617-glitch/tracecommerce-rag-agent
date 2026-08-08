@@ -1,0 +1,16 @@
+{"id":"markets-purpose","query":"Shopify 市场可以分别配置哪些跨境销售内容？","answerable":true,"gold_urls":["https://help.shopify.com/zh-CN/manual/markets"]}
+{"id":"tax-responsibility","query":"Shopify 会替商家负责申报和缴纳所有销售税吗？","answerable":true,"gold_urls":["https://help.shopify.com/zh-CN/manual/taxes"]}
+{"id":"return-vs-refund","query":"退货、换货和退款有什么区别？","answerable":true,"gold_urls":["https://help.shopify.com/zh-CN/manual/fulfillment/managing-orders/returns","https://help.shopify.com/zh-CN/manual/fulfillment/managing-orders/refunding-orders"]}
+{"id":"partial-refund","query":"订单可以只退一部分金额吗？","answerable":true,"gold_urls":["https://help.shopify.com/zh-CN/manual/fulfillment/managing-orders/refunding-orders"]}
+{"id":"hs-code","query":"跨境订单为什么需要填写 HS 编码？","answerable":true,"gold_urls":["https://help.shopify.com/zh-CN/manual/international/duties-and-import-taxes"]}
+{"id":"ddp-requirements","query":"结账时收取关税需要满足什么条件？","answerable":true,"gold_urls":["https://help.shopify.com/zh-CN/manual/international/duties-and-import-taxes/charging-duties"]}
+{"id":"local-currency-pricing","query":"如何为不同市场设置当地货币价格？","answerable":true,"gold_urls":["https://help.shopify.com/zh-CN/manual/international/pricing"]}
+{"id":"local-currency-gateway","query":"客户使用当地货币付款需要什么支付网关？","answerable":true,"gold_urls":["https://help.shopify.com/zh-CN/manual/international/payments"]}
+{"id":"international-tools","query":"Shopify 的国际销售功能主要管理哪些内容？","answerable":true,"gold_urls":["https://help.shopify.com/zh-CN/manual/international"]}
+{"id":"tracking-missing","query":"商品已经发货但没有运输记录，应该检查什么？","answerable":true,"gold_urls":["https://help.shopify.com/zh-CN/manual/fulfillment/setup/order-status-page/order-tracking"]}
+{"id":"tracking-customer","query":"客户可以在哪里查看包裹跟踪信息？","answerable":true,"gold_urls":["https://help.shopify.com/zh-CN/manual/fulfillment/setup/order-status-page/order-tracking"]}
+{"id":"fulfillment-status","query":"订单显示未发货代表什么？","answerable":true,"gold_urls":["https://help.shopify.com/zh-CN/manual/fulfillment/managing-orders/order-status"]}
+{"id":"out-poem","query":"请写一首关于春天的诗","answerable":false,"gold_urls":[]}
+{"id":"out-profit","query":"跨境电商今年的平均利润率是多少？","answerable":false,"gold_urls":[]}
+{"id":"out-live-order","query":"帮我查询订单 10086 现在到哪里了","answerable":false,"gold_urls":[]}
+{"id":"out-mars","query":"Shopify 是否支持配送到火星？","answerable":false,"gold_urls":[]}
